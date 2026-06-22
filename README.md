@@ -13,7 +13,7 @@
 - 🔨 Currently building Full Stack projects using MERN,Python,GenAI and other development tools
 - 🌱 Exploring **DSA**, **System Design**, and sharpening **competitive programming** skills
 - 🎯 Targeting software engineering internships — always open to collaborating on cool projects
-- 
+  
 
 ---
 
@@ -109,19 +109,6 @@
 - C++ & Python problem solving
 - Building projects from scratch as a student
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EshikaKumari0204&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshikaKumari0204&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
 
 ### 📬 How to Reach Me
 
@@ -139,7 +126,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
-](https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/Eshika_Gupta0204/)
+](https://leetcode.com/u/Eshika_Gupta0204/)
 
 ---
 
