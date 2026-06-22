@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ishu+%F0%9F%91%8B;Full+Stack+Developer+%7C+CS+Student;Building+real+things%2C+one+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
 
-<br/>
 
 🎓 **B.Tech CSE @ NIT Patna** &nbsp;|&nbsp; 📅 Class of 2028 &nbsp;|&nbsp; 💻 Full Stack Developer
 
