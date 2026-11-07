@@ -12,8 +12,8 @@
 
 > 🐱 *Curious coder, cat lover, and always building something new!*
 
-- 🎓 CSE student at **NIT Patna** (Class of 2028)
-- 🌐 **Full Stack Web Developer** (MERN)
+- 🎓 CSE student at **NIT Patna** (Class of 2028) | **9.28 CGPA** (till 4th sem)
+- 🌐 **Full Stack Web Developer**
 - 🤖 Exploring **AI, ML & GenAI**
 - 💼 Looking for **internship opportunities**
 - 🤝 Open to **tech collaborations**
@@ -28,6 +28,11 @@
 
 </div>
 
+- 💻 Solved **500+ DSA problems** on LeetCode
+- 🌟 **Top 2%** Learner in NPTEL *Joy of Computing using Python*
+- 🌐 **Top 5%** Learner in NPTEL *Social Networks*
+- 🚀 Participated in **Myntra WeForShe Hackeramp**, **Adobe University Hackathon**, and **NSUT Hack4Delhi**
+
 <br>
 
 ## 💖 My Skills
@@ -37,25 +42,37 @@
 **Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Web Development**
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases**
+**Databases & Tools**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI & Tools**
-
-![AI/ML](https://img.shields.io/badge/AI_&_ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Core Areas**
+
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-Problem_Solving-blueviolet?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-Concepts-blue?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-Database-red?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-Core-lightgrey?style=for-the-badge)
+![Networks](https://img.shields.io/badge/Computer_Networks-Core-orange?style=for-the-badge)
 
 </div>
 
@@ -67,36 +84,26 @@
 <tr>
 <td width="50%" align="center">
 
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Employee Management" width="100%" style="border-radius: 10px;" />
+
 ### 👥 Employee Management System
 ✨ Manage employees with ease
-
-![MERN](https://img.shields.io/badge/MERN_Stack-d946ef?style=flat-square)
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EshikaKumari0204?tab=repositories)
+<br>
+*Role-based access, secure auth, and automated payroll processing.*
 
 </td>
 <td width="50%" align="center">
 
-### 🛒 Basket Bay
+<img src="https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Grocery Delivery" width="100%" style="border-radius: 10px;" />
+
+### 🛒 Basket Bay (Grocery Delivery)
 ✨ Fresh groceries, delivered fast
-
-![MERN](https://img.shields.io/badge/MERN_Stack-d946ef?style=flat-square)
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EshikaKumari0204?tab=repositories)
+<br>
+*Dynamic listings, cart operations, and secure Stripe payment integration.*
 
 </td>
 </tr>
 </table>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EshikaKumari0204&show_icons=true&theme=radical&hide_border=true" height="160" />
-
-</div>
 
 <br>
 
@@ -113,89 +120,13 @@
 
 *Thanks for stopping by! 🌸 Let's build something cool together ✨*
 
+<br>
+
+### 📄 My Resume
+[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=100&section=footer" width="100%"/>
 
 </div>
-<!-- <div align="center">
-
-
-
-🎓 **B.Tech CSE @ NIT Patna** &nbsp;|&nbsp; 📅 Class of 2028 &nbsp;|&nbsp; 💻 Full Stack Developer
-
-</div>
-
----
-
-### 🧠 About Me
-
-- 🔨 Currently building Full Stack projects using MERN,Python,GenAI and other development tools
-- 🌱 Exploring **DSA**, **System Design**, and sharpening **competitive programming** skills
-- 🎯 Targeting software engineering internships — always open to collaborating on cool projects
-  
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-**Frontend**
-
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-**Backend & Databases**
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-**Tools**
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-
-
-### 💬 Ask Me About
-
-- Full Stack Development (MERN)
-- C++ & Python problem solving
-- Building projects from scratch as a student
-
-
-### 📬 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshika-kumari)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshikakumaribgs@gmail.com)
-
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EshikaKumari0204&color=6E40C9&style=flat-square&label=Profile+Views" />
-</div> -->
