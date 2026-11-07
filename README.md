@@ -68,11 +68,11 @@
 
 **Core Areas**
 
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-Problem_Solving-blueviolet?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-Concepts-blue?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-Database-red?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating_Systems-Core-lightgrey?style=for-the-badge)
-![Networks](https://img.shields.io/badge/Computer_Networks-Core-orange?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-blueviolet?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-blue?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-red?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-lightgrey?style=for-the-badge)
+![Networks](https://img.shields.io/badge/Computer_Networks-orange?style=for-the-badge)
 
 </div>
 
