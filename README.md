@@ -10,7 +10,7 @@
 
 ## 🌷 About Me
 
-> 🐱 *Curious coder, cat lover, and always building something new!*
+> 🐱 *Curious coder, Tea addict, and always building something new!*
 
 - 🎓 CSE student at **NIT Patna** (Class of 2028) | **9.28 CGPA** (till 4th sem)
 - 🌐 **Full Stack Web Developer**
@@ -31,7 +31,7 @@
 - 💻 Solved **500+ DSA problems** on LeetCode
 - 🌟 **Top 2%** Learner in NPTEL *Joy of Computing using Python*
 - 🌐 **Top 5%** Learner in NPTEL *Social Networks*
-- 🚀 Participated in **Myntra WeForShe Hackeramp**, **Adobe University Hackathon**, and **NSUT Hack4Delhi**
+- 🚀 Participated in **Myntra WeForShe Hackeramp 2026**, **Adobe University Hackathon 2026**, and **NSUT Hack4Delhi**
 
 <br>
 
@@ -123,7 +123,7 @@
 <br>
 
 ### 📄 My Resume
-[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16epfBAQ8gD3GqhS4bt7M0BdCitb4wzeP/view?usp=drivesdk)
 
 <br>
 
