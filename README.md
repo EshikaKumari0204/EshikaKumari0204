@@ -122,8 +122,7 @@
 
 <br>
 
-### 📄 My Resume
-[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16epfBAQ8gD3GqhS4bt7M0BdCitb4wzeP/view?usp=drivesdk)
+
 
 <br>
 
